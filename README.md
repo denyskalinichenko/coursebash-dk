@@ -1,2 +1,3 @@
 # coursebash-dk
-Use branches to see different labs
+# Branch coursebash-dk was created to demonstrate my experience with working with BASH.
+
